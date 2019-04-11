@@ -120,7 +120,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554997158483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554997584145" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -173,7 +173,7 @@
       <workItem from="1554904279453" duration="5715000" />
       <workItem from="1554926880887" duration="1214000" />
       <workItem from="1554968892636" duration="10129000" />
-      <workItem from="1554995820378" duration="1596000" />
+      <workItem from="1554995820378" duration="2037000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 11.04">
       <created>1554995306077</created>
@@ -193,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18654000" />
+    <option name="totallyTimeSpent" value="19095000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
